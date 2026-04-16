@@ -23,7 +23,7 @@ repository               : "https://lutfifirmansyah3108.github.io/academia/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Mochamad Lutfi Firmansyah"
   pronouns         : # example: "she/her"  
   bio              : "A Postdoctoral Researcher in KFUPM"
